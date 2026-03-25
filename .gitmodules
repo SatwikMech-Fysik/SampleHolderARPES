@@ -1,3 +1,6 @@
 [submodule "themes/papermod"]
 	path = themes/papermod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/turbo-pine"]
+	path = themes/turbo-pine
+	url = https://github.com/joshbnntt/turbo-pine.git
